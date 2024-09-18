@@ -11,6 +11,7 @@ Companies interested in licensing the "complex-color" Total Sound Visualization 
 Stephen Wedekind
 wedekind.stephen@gmail.com
 
+chatHPT o1-preview has ideas to improve the code. How are you?
 
 Patent Links:
 
